@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/actividad8/static/css/main.31d6cfe0.css",
+    "main.js": "/actividad8/static/js/main.2510128a.js",
+    "index.html": "/actividad8/index.html",
+    "main.2510128a.js.map": "/actividad8/static/js/main.2510128a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2510128a.js"
+  ]
+}
